@@ -1,4 +1,4 @@
-# <u style="font-style:bold; color: #c599B6;"> Learn Markdown </u>
+# <u style="font-style:bold; color: #001100;"> Learn Markdown </u>
 
 ---
 
