@@ -11,7 +11,7 @@
 
 ---
 ## Links to Headings Within the Document:
-[Go to Basic Links](#Basic Links)
+[Go to Basic Links](#basic-links)
 
 ---
 ## Reference Link:
