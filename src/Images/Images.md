@@ -10,7 +10,8 @@
 ---
 ## Adding Local Images:
 <!-- ![Local Image](Image Path)-->
-![Blue sky](../../resources/Image.png){:width="300px"}
+<img src="../../resources/Image.png" alt="Blue sky" width="400" style="border: 2px solid #ccc;">
+![Blue sky](../../resources/Image.png)
 
 ---
 ## Adding Clickable Image:
