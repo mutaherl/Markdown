@@ -1,8 +1,5 @@
 #  Learn Markdown 
 
-<span style="color: #00ff00; font-weight: bold; text-decoration: underline;">
-Learn Markdown
-</span>
 ---
 
 ## 1. [Learn](src)
