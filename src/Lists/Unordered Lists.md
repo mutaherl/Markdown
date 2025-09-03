@@ -1,4 +1,4 @@
-## ** Basic Method:**
+## Basic Method:
 - First item
 - Second item 
 - Third item 
