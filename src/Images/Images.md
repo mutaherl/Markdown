@@ -10,7 +10,6 @@
 ---
 ## Adding Local Images:
 <!-- ![Local Image](Image Path)-->
-<img src="../../resources/Image.png" alt="Blue sky" width="400" style="border: 2px solid #ccc;">
 ![Blue sky](../../resources/Image.png)
 
 ---
