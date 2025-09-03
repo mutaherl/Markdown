@@ -8,7 +8,7 @@
 ---
 ## ** Adding Local Images:**
 <!-- ![Local Image](Image Path)-->
-![Blue sky](../resources/ Image.png)
+![Blue sky](../../resources/ Image.png)
 ---
 ## ** Adding Clickable Image:**
 <!--![![Image alt text](Thumbnail image URL)](Target page URL)-->
