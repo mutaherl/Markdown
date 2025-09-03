@@ -2,6 +2,11 @@
 <!-- ![Alt text](Image URL)-->
 ![This is a white car](https://th.bing.com/th/id/OIP.9AA9ELQUr6WsoCJ2WcVcEwHaEK?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3)
 ---
+## Images with Titles
+<!-- ![Alt text](Image URL "Image Title") -->
+![This is a white car](https://th.bing.com/th/id/OIP.9AA9ELQUr6WsoCJ2WcVcEwHaEK?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3 "This is a white car")
+
+---
 ## ** Images with Titles: **
 <!-- ![Alt text](Image URL "Image Title")-->
 ![This is a white car](https://th.bing.com/th/id/OIP.9AA9ELQUr6WsoCJ2WcVcEwHaEK?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3 "This is a white car"
