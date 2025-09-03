@@ -1,4 +1,4 @@
-# <u style="font-style:bold; color: #00ff00;"> Learn Markdown </u>
+#  Learn Markdown 
 
 <span style="color: #00ff00; font-weight: bold; text-decoration: underline;">
 Learn Markdown
