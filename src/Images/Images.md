@@ -10,6 +10,10 @@
 <!-- ![Local Image](Image Path)-->
 ![Blue sky](../../resources/ Image.png)
 ---
+## Adding Local Images
+
+![Blue sky](../../resources/Image.png)
+---
 ## ** Adding Clickable Image:**
 <!--![![Image alt text](Thumbnail image URL)](Target page URL)-->
 [![Google Logo](https://tinyurl.com/google-logo)](https://www.google.com)
