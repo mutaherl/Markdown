@@ -10,6 +10,10 @@
 [Go to Basic Links ](# Basic Links )
 
 ---
+## Links to Headings Within the Document:
+[Go to Basic Links](#Basic Links)
+
+---
 ## Reference Link:
 [Google][1]
 
